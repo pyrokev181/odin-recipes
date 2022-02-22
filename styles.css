@@ -17,6 +17,8 @@ body {
 .list {
     text-align: center;
     background-color: hsl(25, 95%, 60%);
+    font-size: 28px;
+    font-family: "Helvetica"
 }
 
 p {
